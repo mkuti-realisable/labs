@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is file 1. File has 3 has identity issues.
 I wonder where this is going to go wrong...
 This is like a game of BATTLESHIP...
@@ -6,3 +7,7 @@ This is like a game of BATTLESHIP...
 BOOM
 
 D4
+=======
+This is file 1.
+Deans changes, are like, a breath of rain on a rainy day. Monotonous
+>>>>>>> 6a27edf0fab99568acf8f73ba33072e82ab7c511
